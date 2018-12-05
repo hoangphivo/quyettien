@@ -86,3 +86,5 @@ D:\New folder\New folder\quyettien\DMQuyetTien.Tests\bin\Debug\Microsoft.Owin.Se
 D:\New folder\New folder\quyettien\DMQuyetTien.Tests\obj\Debug\DMQuyetTien.Tests.csprojResolveAssemblyReference.cache
 D:\New folder\New folder\quyettien\DMQuyetTien.Tests\obj\Debug\DMQuyetTien.Tests.dll
 D:\New folder\New folder\quyettien\DMQuyetTien.Tests\obj\Debug\DMQuyetTien.Tests.pdb
+D:\New folder\New folder\quyettien\DMQuyetTien.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\New folder\New folder\quyettien\DMQuyetTien.Tests\bin\Debug\EntityFramework.SqlServer.xml
